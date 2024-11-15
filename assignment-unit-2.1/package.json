@@ -1,0 +1,19 @@
+{
+  "name": "prime-pw-week-2-assignment-part-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter test/reporter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/prime-pw-week-2-assignment-part-1.git"
+  },
+  "author": "Prime Digital Academy",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
