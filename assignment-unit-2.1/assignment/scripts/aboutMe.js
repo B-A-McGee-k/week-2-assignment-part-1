@@ -41,10 +41,9 @@ allowedPets = 5;
 //      if adventurous is true, set `result` to be "Adventures are great!", 
 //      if it's not true,  set `result` to be "How about we stay home?"
 //      Console log the value of `result`
-if ( adventurous = true ); {
+if ( adventurous === true ) {
   let result = 'Adventures are great!';
-};
-( adventurous = false ); {
+} else if ( adventurous === false ) {
   let result = 'How about we stay home?';
 }
 console.log( 'result' );
